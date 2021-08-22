@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there, I am **Saul Rojas aka. on :octocat: politeperson** 👋  
+---  
+Currently performing in life as a student of Computer Science 💻!  
+At the Universidad Católica de San Pablo in Perú.  
+
+---  
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=politeperson&show_icons=true&theme=radical)
+
+---  
 
 <!--
 **politeperson/politeperson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
